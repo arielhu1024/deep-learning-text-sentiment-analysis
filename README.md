@@ -58,10 +58,6 @@ How do traditional sequence models and pretrained Transformer models differ in t
 | Bidirectional LSTM | 0.356 | 0.326 |
 | DistilBERT Transformer | 0.529 | 0.485 |
 
-<p align="center">
-  <img src="figures/model_comparison.png" width="700">
-</p>
-
 ---
 
 ## Key Finding
